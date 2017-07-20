@@ -1,9 +1,9 @@
 # Senior Frontend Developer
 ### Kulygin Alex
-Date of birth: 01.07.1985 (32y.o.)
-Tel. +38 (099) 015 90 71
-E-mail: kulygin.alex@gmail.com
-Location: Kyiv, Ukraine
+* Date of birth: 01.07.1985 (32y.o.)
+* Tel. +38 (099) 015 90 71
+* E-mail: kulygin.alex@gmail.com
+* Location: Kyiv, Ukraine
 
 ## Summary
 ### Professional skills:
@@ -20,10 +20,10 @@ Location: Kyiv, Ukraine
 ## Experience
 ### Senior Frontend Developer (2015 - till now)
 @Depositphotos https://depositphotos.com/
-* creating main project and sub projects web applications: https://lightfield.com.ua/, https://focusedcollection.com/;
-* creating admin areas: dash boards, forms, file loaders, html to pdf generator and other middlewares;
-* `SPA` with `SSR`;
-* making web page speed optimisation;
+* creating main project and sub projects web applications: https://lightfield.com.ua/, https://focusedcollection.com/
+* creating admin areas: dash boards, forms, file loaders, html to pdf generator and other middlewares
+* `SPA` with `SSR`
+* making web page speed optimisation
 
 ### Middle Fronend Developer (2013-2015)  
 @Depositphotos https://depositphotos.com/
