@@ -48,10 +48,10 @@
 * Faculty Mathematics and Computer Technologies, specialist.
 
 ## Language skills
-**English** - intermediate;
-**Ukrainian** - native;
-**Russian** - native;
+* **English** - intermediate;
+* **Ukrainian** - native;
+* **Russian** - native;
 
 ## Additional info
-**Hobbies:** ski, fishing, making some stuff in my workshop;
-**Personal Qualities:** initiative, team-player, ability to work under pressure, willing to learn and grow, analytic mind, responsible, leadership skills, communicative;
+* **Hobbies:** ski, fishing, making some stuff in my workshop;
+* **Personal Qualities:** initiative, team-player, ability to work under pressure, willing to learn and grow, analytic mind, responsible, leadership skills, communicative;
