@@ -1,7 +1,5 @@
 # Senior Frontend Developer
 ### Kulygin Alex
-* Date of birth: 01.07.1985 (32y.o.)
-* Tel. +38 (099) 015 ** **
 * E-mail: kulygin.alex@gmail.com
 * Location: Kyiv, Ukraine
 
@@ -50,7 +48,6 @@
 ## Language skills
 * **English** - intermediate;
 * **Ukrainian** - native;
-* **Russian** - native;
 
 ## Additional info
 * **Hobbies:** ski, fishing, making some stuff in my workshop;
